@@ -1,0 +1,109 @@
+Package: adwaita-icon-theme
+Architecture: all
+Installed-Size: 42940
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 3.26.1-2
+Description: Freedesktop.org Hicolor icon theme
+Homepage: https://www.gnome.org
+Depends: hicolor-icon-theme
+Filename: dists/termux/x-gui/binary-all/adwaita-icon-theme_3.26.1-2_all.deb
+Size: 12314808
+SHA256: 741e79bd9b63a5b8dd12257a301cc77042aa10562549add69b1ba2377454da98
+
+Package: hicolor-icon-theme
+Architecture: all
+Installed-Size: 56
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 0.17-3
+Description: Freedesktop.org Hicolor icon theme
+Homepage: https://www.freedesktop.org/wiki/Software/icon-theme/
+Filename: dists/termux/x-gui/binary-all/hicolor-icon-theme_0.17-3_all.deb
+Size: 5012
+SHA256: b3eac5062f8c8cd59c5bdb0e5b0ddc30ab1e2319e985ba371034d67b1ea048d0
+
+Package: python2-six
+Architecture: all
+Installed-Size: 56
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 1.11.0
+Description: Python 2 and 3 compatibility utilities
+Homepage: http://pypi.python.org/pypi/six/
+Depends: python2
+Filename: dists/termux/x-gui/binary-all/python2-six_1.11.0_all.deb
+Size: 9148
+SHA256: fcac1ea37ef2e47fa22269b4f82d6cba76fd41f8f6f1c926a9f2a36475ddcadf
+
+Package: python2-xlib
+Architecture: all
+Installed-Size: 588
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 0.20
+Description: A fully functional X client library for Python programs
+Homepage: https://github.com/python-xlib/python-xlib
+Depends: python2, python2-six, libx11
+Filename: dists/termux/x-gui/binary-all/python2-xlib_0.20_all.deb
+Size: 73036
+SHA256: f62eed551416b3ebc42f66484f34bef34c24ce5de8a98cb94775f789d1ed49a3
+
+Package: startx
+Architecture: all
+Installed-Size: 4
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 1.1
+Description: This package was replaced by 'termux-desktop' and shouldn't be used anymore
+Homepage: http://openbox.org
+Depends: bash, dosbox, fltk-editor, grep, openbox, the-powder-toy, tigervnc, xterm
+Conflicts: openbox (<< 3.6.1-1)
+Recommends: openbox
+Filename: dists/termux/x-gui/binary-all/startx_1.1_all.deb
+Size: 1508
+SHA256: 29ecc537ced0a28cde417e8daed58cbaee73d0d64d2045986b942e3c9e92258a
+
+Package: termux-desktop
+Architecture: all
+Installed-Size: 4
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 1.1
+Description: Script for starting a Termux Desktop
+Homepage: http://openbox.org
+Depends: bash, dosbox, fltk-editor, grep, openbox, the-powder-toy, tigervnc, xterm
+Conflicts: openbox (<< 3.6.1-1), startx
+Replaces: startx
+Filename: dists/termux/x-gui/binary-all/termux-desktop_1.1_all.deb
+Size: 1376
+SHA256: 4c60aa1f9002cba5ecc151e8f94b0b1f139500fffd06b9a276f003ae37f2101e
+
+Package: x11-proto
+Architecture: all
+Installed-Size: 1304
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.19.1
+Description: X11 headers
+Homepage: https://www.x.org
+Depends: xorg-util-macros
+Filename: dists/termux/x-gui/binary-all/x11-proto_1.19.1_all.deb
+Size: 143856
+SHA256: dcfbe35a7ae4972e2c01a0c3d3c83e26bf7413e8088c1e833b30dcb985630fac
+
+Package: xkeyboard-config
+Architecture: all
+Installed-Size: 3560
+Maintainer: Fredrik Fornwall @fornwall
+Version: 2.20
+Description: FIXME:Add description
+Homepage: https://www.x.org
+Filename: dists/termux/x-gui/binary-all/xkeyboard-config_2.20_all.deb
+Size: 294752
+SHA256: 7fb5304442e5735310cdf7091758ba7a9306dcdbfceba69f22761a3f0b9bb909
+
+Package: xorg-util-macros
+Architecture: all
+Installed-Size: 92
+Maintainer: Fredrik Fornwall @fornwall
+Version: 1.19.1
+Description: X.Org Autotools macros
+Homepage: https://www.x.org
+Filename: dists/termux/x-gui/binary-all/xorg-util-macros_1.19.1_all.deb
+Size: 21376
+SHA256: d0e9c8af65e2fcccb417678fe64c4c15efb7c3d3d2385b777ce7ab898f0cbaab
+

@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: termux
+Version: 1
+Architectures: all aarch64 arm i686 x86_64
+Description: A repository of X/GUI packages for Termux
+Suite: termux
+Date: Wed, 31 Jan 2018 14:32:35 +0000
+SHA256:
+ 093a159cdfa1b24d25211f59c02edbc69f717b34c46948500e4fad55a65ddddf 3747 x-gui/binary-all/Packages
+ 7445ae40ef30cfc66fcb467d765d69b9cacfe94441986e30b4c1cfcb569861a2 1324 x-gui/binary-all/Packages.xz
+ 28d339cf5de91b35f4efbe3012e3abd60159ef1601a38a78e6e184dafcebace2 42282 x-gui/binary-aarch64/Packages
+ b36cc52b7be5df9d47eb11cc508f4b3260dbd25e6ae55daf9ac0396e61bb81cf 9168 x-gui/binary-aarch64/Packages.xz
+ aa92de0991f502e20b11379c670fa963b1d0b59bb5563a008f285b10dd1ff5b3 41030 x-gui/binary-arm/Packages
+ 7a51f887417399adede53a9bb494a1943f4ab6c399555030a5a5dd095cb94ebc 9136 x-gui/binary-arm/Packages.xz
+ afa52e6c8a76211807cca7d37e145c61cda4e30df940a633e11606eb822ae634 34120 x-gui/binary-i686/Packages
+ 554af3e088a357976be4f324289e8ba03003e20ea809fe768ff5a2f89b51ac31 7660 x-gui/binary-i686/Packages.xz
+ 84dd2c756ade89bed511b66fabb1c5bb2c6eabc79ebd8a6f3e9e8766a09a1d93 34644 x-gui/binary-x86_64/Packages
+ ea93db165c6c3c0b8588232666d84c20209d1ac3ab0f755d5f149f9b57642136 7676 x-gui/binary-x86_64/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJacdOhAAoJEEXylkEyVFeVnsIQAIC/8GBvogYye8yD4q2cGfIM
+cWCdmLtL1nrXnUjSIipuLXvi9HbtDPjCYZu/h+HXmZY/vC5Y2I8gkJK9aXMeRWc/
+RTdckwDd98TGUbNldxUhaX7vjUC2f2HP1TW/lM3q8e/+UzzXM/5xsUmdyexR5k9f
+XIY4CVhZawcP02NrpNMqVa8javIipSzoO+v7fWKDiGFhW06g2/PWiao3oTDuSPBk
+d6kU7S6teIR7L3h6/c+NMBYmc6MxHIcPRMZrJHMLO+gSLPnaCd6uN68cEmPDyJX1
+K6D0r0e6JbaNKHia1Ms+312PEGdWdGGDXA5di2ya8EFnnJ6h6Plob4cAHgp1ATUQ
+K6o8s0JgzqtbtNdRTRAho2UxfxYEGOkbIZROk1Ja3APcBrlogBguX9txBUyWmxzp
+J5kIfyDtYcEn9Tgm/OvoBO9p6coKFMS0Dp6cQc//ua8W6JgpApg5RZCkil/x5sR/
+jcrrXEs+PFapDUHTSv3jdhd1v5V08TavLGuwicu3CIy6KVWfuUcDOqaN4xrSZ1r9
+jLYb0cd9EaMJ9J1UKrMUY9pp/2jApczNMABkqJ8OL60sYcuwv5CqX21AA5/C1IRJ
+m4LNHKKytBkXw+j4ZTydt+vw1a8nOFkusOy6kaxsUUFz/g7dOGwWP1YiKDttQXzl
+c3e1R21iq0aQFUWxwqVk
+=qzrk
+-----END PGP SIGNATURE-----
