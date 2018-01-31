@@ -25,14 +25,14 @@ SHA256: fc65aa55c7b1563274f30b818a0b30b59ed8eecfcdd5edaf2530abd4363e90fe
 Package: fltk-dev
 Architecture: i686
 Installed-Size: 1188
-Maintainer: Fredrik Fornwall @fornwall
-Version: 1.3.4
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 1.3.4-1
 Description: Development files for fltk
 Homepage: http://www.fltk.org/
 Depends: fltk
-Filename: dists/termux/x-gui/binary-i686/fltk-dev_1.3.4_i686.deb
-Size: 176904
-SHA256: 447c11e11c5e9117284e81cbb96573fc7367f74388613d38294a93451845b5aa
+Filename: dists/termux/x-gui/binary-i686/fltk-dev_1.3.4-1_i686.deb
+Size: 176856
+SHA256: 08ebd9b7ad84f18fb919dce5ee06d341e90eaacfb8103dd2d5810e455ab2d49d
 
 Package: fltk-editor
 Architecture: i686
@@ -49,15 +49,15 @@ SHA256: f012fc047182247b5317f074a80144abdd1e8e5b34066ae6daa5c09b7ba5a718
 Package: fltk
 Architecture: i686
 Installed-Size: 1336
-Maintainer: Fredrik Fornwall @fornwall
-Version: 1.3.4
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 1.3.4-1
 Description: Graphical user interface toolkit for X
 Homepage: http://www.fltk.org/
 Depends: libjpeg-turbo, libxcursor, libxfixes, libxft, libxinerama, libxrender
 Replaces: fluid
-Filename: dists/termux/x-gui/binary-i686/fltk_1.3.4_i686.deb
-Size: 499768
-SHA256: d0491a3844c51eca7888216f7bbe70dd0efb45991f1d009422a65e22c3458363
+Filename: dists/termux/x-gui/binary-i686/fltk_1.3.4-1_i686.deb
+Size: 498984
+SHA256: 1fdb5677552f4b5882aac587841edbc8e0152a33c45a2ad5d945953eaccf7938
 
 Package: fontutil
 Architecture: i686
@@ -770,26 +770,26 @@ Package: openbox-dev
 Architecture: i686
 Installed-Size: 116
 Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
-Version: 3.6.1-5
+Version: 3.6.1-6
 Description: Development files for openbox
 Homepage: http://openbox.org
 Depends: openbox
-Filename: dists/termux/x-gui/binary-i686/openbox-dev_3.6.1-5_i686.deb
-Size: 13432
-SHA256: 0e51c4548192afcbd556a0515bb3980ceb5708be785ac120da68c1627dc7dd74
+Filename: dists/termux/x-gui/binary-i686/openbox-dev_3.6.1-6_i686.deb
+Size: 13428
+SHA256: 5e46795c19e00c2c1c7a09289b57865811eace0655de538a7a0870c2814b1b25
 
 Package: openbox
 Architecture: i686
 Installed-Size: 904
 Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
-Version: 3.6.1-5
+Version: 3.6.1-6
 Description: Highly configurable and lightweight X11 window manager
 Homepage: http://openbox.org
 Depends: bash, imlib2, librsvg, libsm, libxcursor, libxinerama, libxml2, pangoxft, startup-notification
 Recommends: feh, pypanel, xcompmgr
-Filename: dists/termux/x-gui/binary-i686/openbox_3.6.1-5_i686.deb
-Size: 381640
-SHA256: 99dae49f79022cf63c52c8a441e04c147b552a6b91f4a37a3eca234a97c24304
+Filename: dists/termux/x-gui/binary-i686/openbox_3.6.1-6_i686.deb
+Size: 381636
+SHA256: 70970558a71f2b18598be31f0788f1633ccf559c67d2a1973cb4bab529c59caa
 
 Package: pangoxft-dev
 Architecture: i686

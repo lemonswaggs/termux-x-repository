@@ -37,14 +37,14 @@ SHA256: 6196e81391a86a5186c7093fc556a6a4d16874699d7bda5f9dc9186c1ac66067
 Package: fltk-dev
 Architecture: arm
 Installed-Size: 1188
-Maintainer: Fredrik Fornwall @fornwall
-Version: 1.3.4
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 1.3.4-1
 Description: Development files for fltk
 Homepage: http://www.fltk.org/
 Depends: fltk
-Filename: dists/termux/x-gui/binary-arm/fltk-dev_1.3.4_arm.deb
-Size: 176884
-SHA256: 5a878be328330542d8c53aeeb3482df1eca10c8c4d9a789bac83bf7ba5d888ef
+Filename: dists/termux/x-gui/binary-arm/fltk-dev_1.3.4-1_arm.deb
+Size: 176844
+SHA256: 45db7e2931cf8c5ceaac6a9bb0fdee167193c6c49cd7e303ba90324f643ef1b3
 
 Package: fltk-editor
 Architecture: arm
@@ -60,16 +60,16 @@ SHA256: fa637899bd42636636ed0b1291f08662e004e88416356ab9ea6e0c994b5797c8
 
 Package: fltk
 Architecture: arm
-Installed-Size: 1100
-Maintainer: Fredrik Fornwall @fornwall
-Version: 1.3.4
+Installed-Size: 1132
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 1.3.4-1
 Description: Graphical user interface toolkit for X
 Homepage: http://www.fltk.org/
 Depends: libjpeg-turbo, libxcursor, libxfixes, libxft, libxinerama, libxrender
 Replaces: fluid
-Filename: dists/termux/x-gui/binary-arm/fltk_1.3.4_arm.deb
-Size: 482592
-SHA256: 830ea89398e4c2e9e73ea548d67b5f0d10891914cb967d74f1bb9699443a69e1
+Filename: dists/termux/x-gui/binary-arm/fltk_1.3.4-1_arm.deb
+Size: 493620
+SHA256: d2fad73b60239bb1e29605b58ff2eb0c18d041539498833a2fd4ad3b472707bb
 
 Package: fontutil
 Architecture: arm
@@ -255,25 +255,25 @@ Package: libgtk3-dev
 Architecture: arm
 Installed-Size: 3008
 Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
-Version: 3.22.26-12
+Version: 3.22.26-13
 Description: Development files for libgtk3
 Homepage: http://www.gtk.org/
 Depends: libgtk3
-Filename: dists/termux/x-gui/binary-arm/libgtk3-dev_3.22.26-12_arm.deb
-Size: 240684
-SHA256: 4f5d9cfd33d1e197acfdda46a53dd833f1c3a1393ea1f75253e02f19bb934b87
+Filename: dists/termux/x-gui/binary-arm/libgtk3-dev_3.22.26-13_arm.deb
+Size: 240732
+SHA256: f62ce90c5c25bc7bff0140e477f7b6a3e363ccbb941a3102bfe912bfe9e58950
 
 Package: libgtk3
 Architecture: arm
 Installed-Size: 9564
 Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
-Version: 3.22.26-12
+Version: 3.22.26-13
 Description: GObject-based multi-platform GUI toolkit
 Homepage: http://www.gtk.org/
 Depends: adwaita-icon-theme, desktop-file-utils, gdk-pixbuf, glib, glib-bin, libatk, libcairo-x, libepoxy, libxcomposite, libxcursor, libxdamage, libxfixes, libxi, libxinerama, pangoxft, shared-mime-info, x11-proto
-Filename: dists/termux/x-gui/binary-arm/libgtk3_3.22.26-12_arm.deb
-Size: 2575076
-SHA256: 5fbdfd80a0ef7209cfc1559b8e53f819e106bc1e4ba124f1564a1c70d9b0a9ab
+Filename: dists/termux/x-gui/binary-arm/libgtk3_3.22.26-13_arm.deb
+Size: 2575864
+SHA256: 396fe738375137677807dec245d0d532e33d30cf6b5b9f28022e169dda756789
 
 Package: libice-dev
 Architecture: arm
@@ -963,26 +963,26 @@ Package: openbox-dev
 Architecture: arm
 Installed-Size: 116
 Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
-Version: 3.6.1-5
+Version: 3.6.1-6
 Description: Development files for openbox
 Homepage: http://openbox.org
 Depends: openbox
-Filename: dists/termux/x-gui/binary-arm/openbox-dev_3.6.1-5_arm.deb
-Size: 13424
-SHA256: fbbc79be811c99d1734cac94a34c27453c04605454f7dce6c85b3125f54219b3
+Filename: dists/termux/x-gui/binary-arm/openbox-dev_3.6.1-6_arm.deb
+Size: 13440
+SHA256: 68846157a334ef275066717444c06fbb682e13a1754d774c9a23a51674c1f231
 
 Package: openbox
 Architecture: arm
 Installed-Size: 824
 Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
-Version: 3.6.1-5
+Version: 3.6.1-6
 Description: Highly configurable and lightweight X11 window manager
 Homepage: http://openbox.org
 Depends: bash, imlib2, librsvg, libsm, libxcursor, libxinerama, libxml2, pangoxft, startup-notification
 Recommends: feh, pypanel, xcompmgr
-Filename: dists/termux/x-gui/binary-arm/openbox_3.6.1-5_arm.deb
-Size: 376808
-SHA256: 7d52094886bbbb531d2c30a7d80231d576a8763ea7f4f1ad156367ace07bcfe2
+Filename: dists/termux/x-gui/binary-arm/openbox_3.6.1-6_arm.deb
+Size: 377104
+SHA256: d8ef635036e4e56dcc112f4196e93bde9886b644a77b1b83f0b41e0e7e405f34
 
 Package: pangoxft-dev
 Architecture: arm

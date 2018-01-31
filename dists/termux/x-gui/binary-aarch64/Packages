@@ -37,14 +37,14 @@ SHA256: b92989c0573093fabbd7d20dbc58f8792a27ace5d64ae7b70ad6658c86138276
 Package: fltk-dev
 Architecture: aarch64
 Installed-Size: 1188
-Maintainer: Fredrik Fornwall @fornwall
-Version: 1.3.4
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 1.3.4-1
 Description: Development files for fltk
 Homepage: http://www.fltk.org/
 Depends: fltk
-Filename: dists/termux/x-gui/binary-aarch64/fltk-dev_1.3.4_aarch64.deb
-Size: 176916
-SHA256: 44cf1c448f975febb63810a04f19c09913a4e9b0161d989c3e7ba5c29846f794
+Filename: dists/termux/x-gui/binary-aarch64/fltk-dev_1.3.4-1_aarch64.deb
+Size: 176908
+SHA256: 9d4ff896bddc7236b8ef2b2c6b28ddcae635dd82f618050292c772fc6b227b59
 
 Package: fltk-editor
 Architecture: aarch64
@@ -61,15 +61,15 @@ SHA256: 72388650540cfaf224a77549b3d140fc54e38e5c40d3d54efbd13f3ca6f1befa
 Package: fltk
 Architecture: aarch64
 Installed-Size: 1496
-Maintainer: Fredrik Fornwall @fornwall
-Version: 1.3.4
+Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
+Version: 1.3.4-1
 Description: Graphical user interface toolkit for X
 Homepage: http://www.fltk.org/
 Depends: libjpeg-turbo, libxcursor, libxfixes, libxft, libxinerama, libxrender
 Replaces: fluid
-Filename: dists/termux/x-gui/binary-aarch64/fltk_1.3.4_aarch64.deb
-Size: 470536
-SHA256: 5b085a6086f3235dbb13f6c1f8817330b6ae892dc25ee2391bc323d43681df26
+Filename: dists/termux/x-gui/binary-aarch64/fltk_1.3.4-1_aarch64.deb
+Size: 471392
+SHA256: 0c3e441d065787f1cbd6a883d952d65ead2cf16c26a5e7d3f2ce08beb304603d
 
 Package: fontutil
 Architecture: aarch64
@@ -255,25 +255,25 @@ Package: libgtk3-dev
 Architecture: aarch64
 Installed-Size: 3008
 Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
-Version: 3.22.26-12
+Version: 3.22.26-13
 Description: Development files for libgtk3
 Homepage: http://www.gtk.org/
 Depends: libgtk3
-Filename: dists/termux/x-gui/binary-aarch64/libgtk3-dev_3.22.26-12_aarch64.deb
-Size: 240692
-SHA256: 037ffd1e41e577d6d7a4e91178b37210fa4f3a98e1032eb931c667da808b2c7b
+Filename: dists/termux/x-gui/binary-aarch64/libgtk3-dev_3.22.26-13_aarch64.deb
+Size: 240736
+SHA256: 7221e46eae1b46ec49fd225c29f9fe3a2207875592245809c53f167e388ee95e
 
 Package: libgtk3
 Architecture: aarch64
 Installed-Size: 11048
 Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
-Version: 3.22.26-12
+Version: 3.22.26-13
 Description: GObject-based multi-platform GUI toolkit
 Homepage: http://www.gtk.org/
 Depends: adwaita-icon-theme, desktop-file-utils, gdk-pixbuf, glib, glib-bin, libatk, libcairo-x, libepoxy, libxcomposite, libxcursor, libxdamage, libxfixes, libxi, libxinerama, pangoxft, shared-mime-info, x11-proto
-Filename: dists/termux/x-gui/binary-aarch64/libgtk3_3.22.26-12_aarch64.deb
-Size: 2444976
-SHA256: 545e9611b49ab6ccdc4500b8fe8c33b54b606beabbcff1d94f55b1a46a30510b
+Filename: dists/termux/x-gui/binary-aarch64/libgtk3_3.22.26-13_aarch64.deb
+Size: 2445344
+SHA256: 691fa56c6d98ffb38102cde79286ccf1fc026a05baffdbabb072aa511a8beda8
 
 Package: libice-dev
 Architecture: aarch64
@@ -963,26 +963,26 @@ Package: openbox-dev
 Architecture: aarch64
 Installed-Size: 116
 Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
-Version: 3.6.1-5
+Version: 3.6.1-6
 Description: Development files for openbox
 Homepage: http://openbox.org
 Depends: openbox
-Filename: dists/termux/x-gui/binary-aarch64/openbox-dev_3.6.1-5_aarch64.deb
-Size: 13452
-SHA256: 6201c1764074d996630c5f019a6ca0e9f42ca3db510cf44e3e1411329e493589
+Filename: dists/termux/x-gui/binary-aarch64/openbox-dev_3.6.1-6_aarch64.deb
+Size: 13436
+SHA256: 536c661e4228337eaa73e642692fd171ea33e639c5d70be44c36b1170178c786
 
 Package: openbox
 Architecture: aarch64
-Installed-Size: 924
+Installed-Size: 920
 Maintainer: Leonid Plyushch <leonid.plyushch@gmail.com> @xeffyr
-Version: 3.6.1-5
+Version: 3.6.1-6
 Description: Highly configurable and lightweight X11 window manager
 Homepage: http://openbox.org
 Depends: bash, imlib2, librsvg, libsm, libxcursor, libxinerama, libxml2, pangoxft, startup-notification
 Recommends: feh, pypanel, xcompmgr
-Filename: dists/termux/x-gui/binary-aarch64/openbox_3.6.1-5_aarch64.deb
-Size: 365664
-SHA256: 89dd5863a9d96e3829b6c0d298ab3355e0522bbcac79da54f7a472379046054a
+Filename: dists/termux/x-gui/binary-aarch64/openbox_3.6.1-6_aarch64.deb
+Size: 366272
+SHA256: 26e51af54ae573ff7d8a257389f4c5bdbcf3145928e3bdbb405f496838f91f1b
 
 Package: pangoxft-dev
 Architecture: aarch64
