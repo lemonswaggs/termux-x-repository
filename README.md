@@ -1,5 +1,6 @@
 # Termux repository of X/GUI packages
-This repository contains various X/GUI packages (such as **dosbox**) that can be used with [Termux](https://github.com/termux/termux-app).
+This is unofficial [Termux](https://github.com/termux/termux-app) repository that contains various X/GUI packages such as **dosbox**.
+Build scripts and patches are located in [my 'termux-packages' repository](https://github.com/xeffyr/termux-packages/tree/termux-x-packages).
 
 ## How to enable this repository
 Download and run a [script](https://github.com/xeffyr/termux-x-repository/blob/master/enablerepo.sh) that will automatically add repository to your 'sources.list' file and add public key:
@@ -20,8 +21,3 @@ If you want to launch a X program directly from the Termux, make sure that a var
 ```
 export DISPLAY=:1
 ```
-
-## Note
-This repository uses Github Pages. Since they are use caching, sometimes when repository is updated you may receive errors like
-'Hash Sum mismatch', '404 Not Found', 'Writing more data than expected'. Usually, the problem should gone away in ~10 minutes after
-repository was updated.
