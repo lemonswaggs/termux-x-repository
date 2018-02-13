@@ -10,7 +10,7 @@ bash enablerepo.sh
 ```
 
 ## How to run X packages
-1. Install package 'termux-desktop' from this repository: `pkg install termux-desktop`.
+1. Install package 'termux-desktop' from this repository: `pkg install termux-desktop`. This will provide an Openbox environment with some programs preinstalled.
 2. Install VNC viewer. You can use this: https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
 3. Create a new session in Termux and type: `startx`. On first launch you will be prompted for setting up a VNC password.
 Output of startx should contain something like this 'New ... desktop is localhost:1'. At this point, openbox session will
